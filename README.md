@@ -1,1 +1,1 @@
-# a personal repository
+# personal repository
